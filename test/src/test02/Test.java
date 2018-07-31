@@ -9,16 +9,16 @@ public class Test {
 		
 		if(a!=b) {
 			if(a<b) {
-				System.out.println("a°¡ bº¸´Ù ÀÛ³× ¤»¤»¤»");
+				System.out.println("aë³´ë‹¤ bê°€ í¬ë„¤");
 			}
 		}
 		
 		if(a!=b && a<b) {
-			System.out.println("a¿Í b´Â ´Ù¸£¸é¼­ a°¡ bº¸´Ù ÀÛ³×¿ä"); 
+			System.out.println("aì™€ bëŠ” ë‹¤ë¥´ë©´ì„œ aë³´ë‹¤ bê°€ í¬ë„¤"); 
 		}
 		
 		if(a==b || a<b) {
-			System.out.println("a¿Í b´Â ´Ù¸£°Å³ª a°¡ bº¸´Ù ÀÛ³×¿ä");
+			System.out.println("aì™€ bëŠ” ê°™ê±°ë‚˜ aë³´ë‹¤ bê°€ í¬ë„¤");
 		}
 
 	}

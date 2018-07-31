@@ -24,7 +24,7 @@ public class Maptest1 {
 	
 	public static void main(String[] args) {
 		ArrayList<HashMap<String,String>> al = getList();
-		for(HashMap<String,String> hm:al) {
+		for(HashMap<String,String> hm : al) {
 			System.out.println(hm);
 		}
 		

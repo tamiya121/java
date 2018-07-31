@@ -20,8 +20,10 @@ public class InputTest {
 			System.out.println(num1 * num2);
 		} else if (oo.equals("/")) {
 			System.out.println(num1 / num2);
+		} else if (oo.equals("%")) {
+			System.out.println(num1 / num2);
 		} else {
-			System.out.println("연산자 똑바로 입력해!!!!!!!!!!");
+			System.out.println("똑바로 입력 안 해?");
 
 		}
 	}

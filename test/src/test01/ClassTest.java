@@ -14,7 +14,7 @@ public class ClassTest {
 
 	public static void main(String[] args) {
 		ClassTest ct = new ClassTest();
-		ct.name= "±èÁÖ´ë";
+		ct.name= "ìœ¼í•˜í•˜";
 		ct.test();
 		ClassTest ct1 = new ClassTest();
 

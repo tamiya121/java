@@ -17,6 +17,7 @@ public class Condition {
 			int tmp = sNum;
 			sNum = eNum;
 			eNum = tmp;
+			
 		}
 		for (int i = sNum; i <= eNum; i++) {
 			System.out.println(i);
